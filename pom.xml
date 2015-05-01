@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	
 	<scm>
 		<connection>scm:git:git@github.com:mjpcremers/iAdviseTest.git</connection>
 		<url>scm:git:git@github.com:mjpcremers/iAdviseTest.git</url>
 		<developerConnection>scm:git:git@github.com:mjpcremers/iAdviseTest.git</developerConnection>
-  	</scm>
+  	  <tag>iAdviseTest-1.0</tag>
+  </scm>
     
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.iadvise</groupId>
 	<artifactId>iAdviseTest</artifactId>
 	<name>Customer</name>
 	<packaging>war</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<properties>
 		<java-version>1.6</java-version>
 		<org.springframework-version>4.0.3.RELEASE</org.springframework-version>
