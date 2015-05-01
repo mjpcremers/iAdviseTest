@@ -3,9 +3,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	
 	<scm>
-    	<developerConnection>scm:git:https://github.com/mjpcremers/iadvisetest</developerConnection>
+		<connection>scm:git:git@github.com:mjpcremers/iAdviseTest.git</connection>
+		<url>scm:git:git@github.com:mjpcremers/iAdviseTest.git</url>
+		<developerConnection>scm:git:git@github.com:mjpcremers/iAdviseTest.git</developerConnection>
   	</scm>
-  
+    
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.iadvise</groupId>
 	<artifactId>iAdviseTest</artifactId>
